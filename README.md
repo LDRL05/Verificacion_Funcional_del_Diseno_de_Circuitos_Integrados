@@ -1,2 +1,3 @@
-# Verificacion_Funcional_del_Diseno_de_Circuitos_Integrados
+<h1 align="Center"> Verificacion_Funcional_del_Diseno_de_Circuitos_Integrados </h1>
+
 Este curso es una introducción a los conceptos básicos sobre verificación funcional de circuitos digitales descritos en HDL. Se aprenderán y aplicarán conceptos y estrategias de verificación como aserciones, cobertura, componentes de verificación,  etc. Estas se utilizarán en prácticas de SystemVerilog y en proyectos de verificación funcional.
